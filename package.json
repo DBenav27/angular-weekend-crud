@@ -1,0 +1,28 @@
+{
+  "name": "angular-weekend-crud",
+  "version": "1.0.0",
+  "description": "<!-- Location: SF -->",
+  "main": "apps.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DBenav27/angular-weekend-crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DBenav27/angular-weekend-crud/issues"
+  },
+  "homepage": "https://github.com/DBenav27/angular-weekend-crud#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "bower": "^1.8.0",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.5"
+  }
+}
